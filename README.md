@@ -1,3 +1,5 @@
+A sample react frontend with redux, token utils, router, pages and components. Created by Iris Liang
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
